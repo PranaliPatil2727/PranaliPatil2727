@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Pranali
+#  Pranali Patil
 
 ### B.Tech Computer Engineering Student | Aspiring Software Developer
 
