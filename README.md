@@ -54,13 +54,13 @@
 
 ## 🎯 Current Goals
 
-```
+
 ✅ Master Data Structures & Algorithms in Java
 ⬜ Build 2–3 real-world projects for my portfolio
 ⬜ Learn basics of Web Development
 ⬜ Contribute to Open Source
 ⬜ Land my first Internship
-```
+
 
 ---
 
