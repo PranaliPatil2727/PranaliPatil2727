@@ -4,13 +4,9 @@
 
 ☕ Currently learning **Java** and **Data Structures & Algorithms** — focused on writing clean, logical, and efficient code.
 
-🐍 Familiar with **Python** and applying it to small projects and scripting tasks.
+🐍 Familiar with **Python**, **C**, **HTML**, **CSS**, **JavaScript** and applying it to small projects and scripting tasks.
 
 🔧 Exploring **Git & GitHub** — learning version control and collaboration workflows used in real-world development.
-
-💼 Actively preparing for **internships and placements** — building skills, projects, and confidence to contribute to a real team.
-
-> *"Every expert was once a beginner — keep learning, keep building!"* 🚀
 
 ---
 
@@ -28,10 +24,10 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**🗄️ Database**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **🔧 Tools & Platforms**
 
@@ -40,13 +36,13 @@
 
 **📐 Concepts**
 
-`Data Structures` `Algorithms` `OOP` `Problem Solving` `SDLC Basics`
+`Data Structures` `Algorithms` `OOP` `Problem Solving` 
 
 ---
 
 ## 🚀 Projects
 
-> *(Coming soon — currently building my first projects!)*
+> *(Coming soon — currently building my first project!)*
 
 🔨 Working on Java-based mini projects to apply DSA concepts in real scenarios.
 
@@ -59,7 +55,7 @@
  
  Build 2–3 real-world projects for my portfolio
  
- Learn basics of Web Development
+ Learn basics of Software Development
  
  Contribute to Open Source
  
