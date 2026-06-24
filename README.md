@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👩‍💻 Pranali
+#  Pranali
 
 ### B.Tech Computer Engineering Student | Aspiring Software Developer
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🙋‍♀️ About Me
+##  About Me
 
 ```java
 public class Pranali {
@@ -27,15 +27,13 @@ public class Pranali {
     String goal       = "Internships & Placements";
     String passion    = "Technology + Problem Solving";
 
-    String funFact() {
-        return "I enjoy turning ideas into projects, one commit at a time! 🚀";
-    }
+  
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -54,7 +52,7 @@ public class Pranali {
 ✅ Master Data Structures & Algorithms in Java
 ✅ Build real-world projects for my portfolio
 ✅ Contribute to Open Source
-✅ Land my first Internship
+✅ Learning and growing
 ```
 
 ---
@@ -72,7 +70,7 @@ public class Pranali {
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p>
   <a href="mailto:youremail@gmail.com">
